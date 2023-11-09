@@ -71,4 +71,6 @@ Here's an example of how to use these scripts:
 
 With the QR Code Generator and Detector scripts, you can easily generate QR codes and interact with them using your computer's webcam or existing images. These scripts can be customized and extended to suit your specific needs.
 
-Happy QR coding and detecting!
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
